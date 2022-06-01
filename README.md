@@ -1,4 +1,4 @@
-# Introduction to Concurrent Programming, Hydra 2022, Assignments
+# Introduction to Concurrent Programming, Hydra'22: Task Assignments
 
 In this repository, you will find the assignments for the "Introduction to Concurrent Programming" series at Hydra'22.
 All assignments are in [Kotlin](https://kotlinlang.org) and leverage the [kotlinx.atomicfu](https://github.com/Kotlin/kotlinx.atomicfu/)
